@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Deslocado",
+  "base_artist": "NAPA",
+  "createdAt": "2026-02-17T01:04:05.163804Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Deslocado",
+      "artist": "NAPA",
+      "has_synced": true,
+      "path": "select/01_Deslocado_NAPA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Deslocado (Eurovision 2025 - Portugal / Karaoke)",
+      "artist": "NAPA",
+      "has_synced": false,
+      "path": "select/02_Deslocado_(Eurovision_2025_-_Portugal___Karaoke)_NAPA.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Deslocado",
+      "artist": "Song, NAPA",
+      "has_synced": true,
+      "path": "select/03_Deslocado_Song,_NAPA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Deslocado (Portugal)",
+      "artist": "NAPA",
+      "has_synced": true,
+      "path": "select/04_Deslocado_(Portugal)_NAPA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Deslocado",
+      "artist": "NAPA",
+      "has_synced": false,
+      "path": "select/pl_01_Deslocado_NAPA.txt"
+    }
+  ]
+}
